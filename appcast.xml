@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>업데이트</title>
+    <link>https://raw.githubusercontent.com/lllll8505-ui/x7k2-relfeed/main/appcast.xml</link>
+    <description>업데이트 피드</description>
+    <language>ko</language>
+    <item>
+      <title>1.1.0</title>
+      <link>https://github.com/lllll8505-ui/x7k2-relfeed/releases/tag/v1.1.0</link>
+      <sparkle:version>1.1.0</sparkle:version>
+      <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Sun, 30 Aug 2026 09:37:05 +0000</pubDate>
+      <enclosure url="https://github.com/lllll8505-ui/x7k2-relfeed/releases/download/v1.1.0/update-1.1.0.dmg"
+                 sparkle:edSignature="ZPPntj4LcEf9D5FwG5MMmqzp3XRexQj7O/qCnS584wZJeQ+iJiVBCbLi94lmEjtT+ypF4Ht9Av5omy6apo82Bw=="
+                 length="5883926"
+                 type="application/octet-stream" />
+    </item>
+
+    <item>
+      <title>1.0.0</title>
+      <link>https://github.com/lllll8505-ui/x7k2-relfeed/releases/tag/v1.0.0</link>
+      <sparkle:version>1.0.0</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Sat, 29 Aug 2026 12:53:57 +0000</pubDate>
+      <enclosure url="https://github.com/lllll8505-ui/x7k2-relfeed/releases/download/v1.0.0/update-1.0.0.dmg"
+                 sparkle:edSignature="9eWLedlcAb+fOPz0rplvwP3ymJWWx4vMGNLjES3ratF9hkYddzIs2PxCSiTcDfBncTVSCSd5M8SNtNY9z9b+CQ=="
+                 length="5875572"
+                 type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
