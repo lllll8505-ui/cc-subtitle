@@ -6,6 +6,19 @@
     <description>업데이트 피드</description>
     <language>ko</language>
     <item>
+      <title>1.1.3</title>
+      <link>https://github.com/lllll8505-ui/x7k2-relfeed/releases/tag/v1.1.3</link>
+      <sparkle:version>1.1.3</sparkle:version>
+      <sparkle:shortVersionString>1.1.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Mon, 31 Aug 2026 01:15:00 +0000</pubDate>
+      <enclosure url="https://github.com/lllll8505-ui/x7k2-relfeed/releases/download/v1.1.3/update-1.1.3.dmg"
+                 sparkle:edSignature="zQBDm2wIbvo9CQPQxpCIPVT4Wh10VRaaUpEqchpHxN6JbRHyNhyeLu2vM9QKF2uVRxsjPrc5kUO0mU978A7uBA=="
+                 length="5888189"
+                 type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>1.1.2</title>
       <link>https://github.com/lllll8505-ui/x7k2-relfeed/releases/tag/v1.1.2</link>
       <sparkle:version>1.1.2</sparkle:version>
